@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a28ce14a-3483-41a8-a90a-42874120394f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Kotlin File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Y1p7gfHXkSjFoxSBk7Y63XRgWo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="dfs.and.bfs._113PathSumII" />
+      <recent name="dfs.and.bfs._112PathSum" />
+      <recent name="dfs.and.bfs._110BalancedBinaryTree" />
+      <recent name="dfs.and.bfs._109ConvertSortedListToBinarySearchTree" />
+      <recent name="dfs.and.bfs._106ConstructBinaryTreeFromInorderAndPostorderTraversal" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Taylor Li\IdeaProjects\algorithm1\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Solution">
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dynamic.programming._322CoinChange.Solution" />
+      <module name="LeetCodeAlgorithmByJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dynamic.programming._322CoinChange.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dynamic.programming._123BestTimeToBuyAndSellStockIII.Solution" />
+      <module name="LeetCodeAlgorithmByJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dynamic.programming._123BestTimeToBuyAndSellStockIII.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dynamic.programming.LongestIncreasingSubsequence.Solution" />
+      <module name="LeetCodeAlgorithmByJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dynamic.programming.LongestIncreasingSubsequence.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dynamic.programming._120Triangle.Solution" />
+      <module name="LeetCodeAlgorithmByJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dynamic.programming._120Triangle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="math._7ReverseInteger.Solution" />
+      <module name="LeetCodeAlgorithmByJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="math._7ReverseInteger.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Solution (1)" />
+        <item itemvalue="Application.Solution (4)" />
+        <item itemvalue="Application.Solution (3)" />
+        <item itemvalue="Application.Solution" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a28ce14a-3483-41a8-a90a-42874120394f" name="Default Changelist" comment="" />
+      <created>1578393217148</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578393217148</updated>
+      <workItem from="1578393220849" duration="8990000" />
+      <workItem from="1578464023895" duration="3895000" />
+      <workItem from="1578880214226" duration="4659000" />
+      <workItem from="1578897584271" duration="6465000" />
+      <workItem from="1578917538006" duration="6655000" />
+      <workItem from="1578964342478" duration="5245000" />
+      <workItem from="1578993125899" duration="11445000" />
+      <workItem from="1579050957955" duration="9902000" />
+      <workItem from="1579225899857" duration="14707000" />
+      <workItem from="1579313956824" duration="11555000" />
+      <workItem from="1579417123176" duration="2011000" />
+      <workItem from="1579581343914" duration="3839000" />
+      <workItem from="1579606694787" duration="9301000" />
+      <workItem from="1579675842303" duration="3771000" />
+      <workItem from="1580129199230" duration="2159000" />
+      <workItem from="1580173353623" duration="2334000" />
+      <workItem from="1580304419680" duration="263000" />
+      <workItem from="1580357822531" duration="1540000" />
+      <workItem from="1580815718516" duration="5513000" />
+      <workItem from="1580866745341" duration="352000" />
+      <workItem from="1580867387007" duration="13897000" />
+      <workItem from="1580948515127" duration="1981000" />
+      <workItem from="1580958849752" duration="4338000" />
+      <workItem from="1580988211777" duration="1286000" />
+      <workItem from="1581044018607" duration="13567000" />
+      <workItem from="1581130133611" duration="6764000" />
+      <workItem from="1581253019612" duration="7396000" />
+      <workItem from="1581303548771" duration="9686000" />
+      <workItem from="1581420609733" duration="8102000" />
+      <workItem from="1581502251297" duration="12085000" />
+      <workItem from="1581560721570" duration="5119000" />
+      <workItem from="1581679272228" duration="5101000" />
+      <workItem from="1581768619752" duration="10690000" />
+      <workItem from="1581811572562" duration="9942000" />
+      <workItem from="1582078748850" duration="994000" />
+      <workItem from="1582119795041" duration="5291000" />
+      <workItem from="1582159329204" duration="2609000" />
+      <workItem from="1582248355033" duration="1995000" />
+      <workItem from="1582294195666" duration="4237000" />
+      <workItem from="1582337482463" duration="6382000" />
+      <workItem from="1582374269638" duration="623000" />
+      <workItem from="1582381263423" duration="1211000" />
+      <workItem from="1582432443338" duration="607000" />
+      <workItem from="1582446588269" duration="6013000" />
+      <workItem from="1582514235095" duration="10850000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="2">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1582374281185">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1582374281185" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1582298692534">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582298692534" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1582298692534">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582298692534" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1582298692534">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582298692534" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1582298692534">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582298692534" />
+    <state x="195" y="41" key="SettingsEditor" timestamp="1582119917107">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="195" y="41" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1582119917107" />
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1582514235367">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1582514235367" />
+  </component>
+</project>
