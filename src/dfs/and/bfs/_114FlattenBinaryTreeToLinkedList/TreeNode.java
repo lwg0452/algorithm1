@@ -1,4 +1,4 @@
-package dfs.and.bfs._112PathSum;
+package dfs.and.bfs._114FlattenBinaryTreeToLinkedList;
 
 public class TreeNode {
     int val;
